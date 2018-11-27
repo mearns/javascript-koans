@@ -45,6 +45,11 @@ Overhearing this, a more experienced developer replied "The dot operator is no m
 
 With this, the other developer was enlightened.
 
+### Refs
+
+* [1](https://www.ecma-international.org/ecma-262/6.0/#sec-function-calls)
+* [2](https://www.ecma-international.org/ecma-262/6.0/#sec-property-accessors)
+
 ## Deletion and Omission
 
 "Master," questioned a student, "how is it that the `delete` operator knows to remove a property from an object. Do you not provide it with only a right hand value?"
@@ -56,6 +61,11 @@ With this, the other developer was enlightened.
 "My name is how I am presented on paper," replied the student.
 
 "And the value of a property is how it is presented in an expression," replied the master. With that, the student was englightened.
+
+### Refs
+
+* [1](https://www.ecma-international.org/ecma-262/6.0/#sec-property-accessors)
+* [2](https://www.ecma-international.org/ecma-262/6.0/#sec-delete-operator)
 
 ## Clarity
 
