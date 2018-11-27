@@ -12,13 +12,13 @@ The senior and staff engineers were thus enlightened.
 
 A mid-level developer was struggling to understand asynchronous coding in JavaScript.
 
-A senior developer offered, "There is an article that may be of interest to you. It will take some time for me to find it. What would you like me to when I find it."
+A senior developer offered, "There is an article that may be of interest to you. It will take some time for me to find it. What would you like me to do when I find it."
 
 "Email it to me," was the response.
 
 "And what would you like me to do if I fail to find it?"
 
-"Email me to let me know you couldn't find it," replied the more junor developer.
+"Just email me to let me know, and I'll figure out how to handle it," replied the more junor developer.
 
 "And after I've emailed you, will you please make sure tell me if it helped?"
 
