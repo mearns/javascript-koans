@@ -37,7 +37,7 @@ In that moment, Staltz was englightened.
 
 ## Bounded Glory
 
-An experienced developer was struggling with their callback function.
+An experienced developer was struggling to use anobject method as a callback function.
 
 "No matter what I do, `this` is bound to the global object!" they lamented.
 
