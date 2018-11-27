@@ -34,7 +34,7 @@ In the days of A+, Staltz was showing a developer how to fulfill a Promise with 
 
 "And what if I want to do something asynchronous with each result?" asked the student.
 
-"You can map over the array with `Promises.map` or `Promises.all`" replied the master.
+"You can map over the array with `Promise.all`" replied the master.
 
 "And what if each value is available at a different time?" asked the student.
 
