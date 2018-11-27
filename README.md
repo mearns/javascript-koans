@@ -37,11 +37,11 @@ In that moment, Staltz was englightened.
 
 ## Bounded Glory
 
-An experienced developer was struggling to use anobject method as a callback function.
+An experienced developer was struggling to use an object method as a callback function.
 
 "No matter what I do, `this` is bound to the global object!" they lamented.
 
-Overhearing this, a more experienced developer replied "The dot operator is no mere property accessor."
+Overhearing this, a more experienced developer replied "The dot operator is no mere value accessor."
 
 With this, the other developer was enlightened.
 
