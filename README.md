@@ -43,3 +43,25 @@ In the days of A+, Staltz was showing a developer how to fulfill a Promise with 
 "Streaming data," replied the student.
 
 In that moment, Staltz was englightened.
+
+## Bounded Glory
+
+An experienced developer was struggling with their callback function.
+
+"No matter what I do, `this` is bound to the global object!" they lamented.
+
+Overhearing this, a more experienced developer replied "The dot operator is no mere property accessor."
+
+With this, the other developer was enlightened.
+
+## Deletion and Omission
+
+"Master," questioned a student, "how is it that the `delete` operator knows to remove a property from an object. Do you not provide it with only a right hand value?"
+
+"Add yourself to this list," demanded the master. The student took the paper from the master and wrote down their name.
+
+"I asked you to add yourself to the list, but all you've added is your name," observed the master.
+
+"My name is how I am presented on paper," replied the student.
+
+"And the value of a property is how it is presented in an expression," replied the master. With that, the student was englightened.
