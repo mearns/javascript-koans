@@ -1,12 +1,3 @@
-## Clarity
-
-A senior engineer was reviewied the code of a junior engineer, and suggested they replace the use of a `for` loop with a `forEach` call.
-
-A staff engineer was reviewed the senior engineer's review and pointed out that the original `for` loop was actually more performant.
-
-The junior engineer asked "Was it not clear and comprehensible the way it was originally written?"
-
-The senior and staff engineers were thus enlightened.
 
 ## Promises
 
@@ -65,3 +56,13 @@ With this, the other developer was enlightened.
 "My name is how I am presented on paper," replied the student.
 
 "And the value of a property is how it is presented in an expression," replied the master. With that, the student was englightened.
+
+## Clarity
+
+A senior engineer was reviewied the code of a junior engineer, and suggested they replace the use of a `for` loop with a `forEach` call.
+
+A staff engineer was reviewed the senior engineer's review and pointed out that the original `for` loop was actually more performant.
+
+The junior engineer asked "Was it not clear and comprehensible the way it was originally written?"
+
+The senior and staff engineers were thus enlightened.
