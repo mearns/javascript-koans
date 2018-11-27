@@ -76,3 +76,13 @@ A staff engineer was reviewing the senior engineer's review and pointed out that
 The junior engineer asked "Was it not clear and comprehensible the way it was originally written?"
 
 The senior and staff engineers were thus enlightened.
+
+## 0006 - Truth
+
+A puzzled student showed what he had created to his teacher and inquired, "I constructed a `new Boolean()` with a `false` value, yet when I use it in a conditional it evaluates as if it was `true`. Why is this so?"
+
+Pointing to the television in the corner, the teacher asked "What is within that box?"
+
+"There's a movie playing, and the effects are quite realistic," answered the student.
+
+"Do not seek truth from objects, for they will deceive you," replied the master. With this, the student was englightened.
